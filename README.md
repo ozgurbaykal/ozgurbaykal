@@ -1,6 +1,5 @@
-# 💫 About Me:
-I have a strong affinity for Java, but I also have proficiency in other languages and technologies including JavaScript, Kotlin, MySQL, MSSQL, JavaFX, HTML, and CSS. I'm continually seeking opportunities to grow and apply these skills in novel ways.<br><br>I'm the creator of the TurkMCPE Network, a gaming server, and I love participating in open-source projects. I'm always eager to contribute and learn from this amazing community.<br><br>Despite being relatively new to the tech world, I adapt quickly to new environments and projects. I believe in the power of teamwork and thrive when collaborating with others to solve complex problems.<br><br>Currently, my goal is to specialize in mobile development and improve my skills in the backend field. I'm open to challenges and learning opportunities that will help me accomplish this.
-
+# Hey👋 I'm Ozgur About Me:
+As a proficient Java developer and creator of TurkMCPE Network, I adapt quickly and enjoy team-based problem-solving. Aiming to specialize in mobile development and backend, I actively seek challenges and learning opportunities in open-source projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ozgurbaykal) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19826534/ozgurbyk) 
